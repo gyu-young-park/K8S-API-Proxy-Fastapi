@@ -1,0 +1,2 @@
+# K8S-API-Proxy-Fastapi
+This project is to proxy k8s api by fastapi server. if you can't access your k8s cluster node directly, you can't use 'kubectl' cli and it means you can't control or debug your kubernetes cluster. It will be helpful to manipulate and debug your k8s cluster.
